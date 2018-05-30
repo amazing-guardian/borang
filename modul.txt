@@ -1,0 +1,85 @@
+[tabby title="Akreditasi"]
+
+<a href="http://psikologi.fisip-unmul.ac.id/dir-akademik/akreditasi/">Klik untuk menuju halaman akreditasi</a>
+
+[tabby title="Denah Ruang"]
+
+<a href="http://psikologi.fisip-unmul.ac.id/map/mapruang.htm">Denah Ruang di Fisip</a>
+
+[tabby title="Jadwal Seminar"]
+
+<a href="http://psikologi.fisip-unmul.ac.id/dir-akademik/jadwal-seminar/">Jadwal Seminar</a>
+
+<!--
+<a href="http://psikologi.fisip-unmul.ac.id/dir-akademik/jadwal-seminar/mobile/">Versi Mobile</a>
+-->
+
+[tabby title="Kalender"]
+
+<img src="http://upload.unmul.ac.id/uploads/acb8KalenderAkademik2017-2018AK.jpg" alt="kalender akademik" />
+
+<!-- iframe dan link dimatikan -->
+<!--
+<iframe style="border-width: 0;" src="https://calendar.google.com/calendar/embed?title=Kalender%20Akademik&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;hl=id&amp;bgcolor=%23FFFFFF&amp;src=fd3po78dcn3q74bpg2toa5li1g%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=Asia%2FMakassar" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+
+<a href="http://psikologi.fisip-unmul.ac.id/instal-kalender-akademik-psikologi-di-gadgetmu/">Cara Menambahkan Kalendar Online di Handphone</a>
+-->
+
+[tabby title="Kurikulum"]
+
+Kurikulum 2016:
+
+[embed width="100%" height="600"]http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/01/KURIKULUM PSIKOLOGI 2016_REVISI - WARNA.pdf[/embed]
+
+<a title="Download File ini" href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/01/KURIKULUM PSIKOLOGI 2016_REVISI - WARNA.pdf" target="_blank" rel="noopener noreferrer">Original File</a>
+
+Kurikulum 2014:
+
+Berlaku untuk angkatan 2014-2015
+
+[embed width="100%" height="500"]http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Kurikulum-Prodi-Psikologi-2014.pdf[/embed]
+
+<a title="Download File ini" href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Kurikulum-Prodi-Psikologi-2014.pdf" target="_blank" rel="noopener noreferrer">Original File</a>
+
+[tabby title="Modul"]
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/MODUL-ADMINISTRASI-TES-2017.pdf">Administrasi Tes</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/MODUL-PRAKTIKUM_Denver-II.pdf">Deteksi Dini dalam Perkembangan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/pdf-modul-inventory-FIX.pdf">Inventory</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Panduan-KONTUR.pdf">Metodologi Penelitian Psikologi Kuantitatif: SPSS dan AMOS</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Modul-Psikometri-sofware-Anajhon.pdf">Metodologi Penelitian Psikologi Psikometri: Anajhon</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Panduan-kontruksi-tes-sofware-Anbuso.pdf">Metodologi Penelitian Psikologi Psikometri: Anbuso</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Panduan-Iteman-v43.pdf">Metodologi Penelitian Psikologi Psikometri: Iteman</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Panduan-kontruksi-R.pdf">Metodologi Penelitian Psikologi Psikometri: R</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Modul-skala-SPSS.pdf">Metodologi Penelitian Psikologi Psikometri: Skala dengan SPSS</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Panduan-kontruksi-SPSS.pdf">Metodologi Penelitian Psikologi Psikometri: SPSS</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/PANDUAN-KONTUR.pdf">Kontruksi Alat Ukur</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Psikometri-TES.pdf">Psikometri untuk Tes</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Modull-skala-SPSS-.pdf">Psikometri untuk Skala</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/panduan-pelaporan-kontes-2017.pdf">Pelaporan Hasil Uji Tes</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Tes-Minat-dan-Bakat.pdf">Tes Minat dan Bakat</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Wawancara.pdf">Wawancara</a></li>
+</ul>
+[tabby title="Pedoman"]
+
+<strong>Pedoman Penulisan Skripsi</strong>
+
+<center><img class="alignnone wp-image-1655 " src="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/Cover-Pedoman-Skripsi-2018_edited-722x1024.jpg" alt="" width="363" height="515" /></center><center><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/buku-panduan-skripsi-psikologi-2016.pdf">Click here</a> to download this file</center><strong>Pedoman Prosedur Pelayanan</strong>
+
+klik gambar untuk menuju direktori Pedoman Prosedur (Persyaratan) Pelayanan
+
+<a href="http://psikologi.fisip-unmul.ac.id/dir-akademik/pedoman/?target=overview"><img class="aligncenter wp-image-337 size-full" src="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/06/BUKU-KONTROL-AKADEMIK-FINAL_004-e1466845782449.png" alt="BUKU KONTROL AKADEMIK FINAL_004" width="1080" height="763" /></a>
+
+[tabby title="POB"]
+
+[insert page='sop' display='excerpt']
+
+[tabby title="Silabus"]
+
+<a href="http://psikologi.fisip-unmul.ac.id/dir-akademik/silabus/">Klik link berikut untuk membuka silabus</a>
+
+[tabby title="Tracer Studi"]
+
+<a href="http://psikologi.fisip-unmul.ac.id/dir-akademik/akademik-tracer-study/">Klik link berikut untuk membuka data tracer studi</a>
+
+[tabbyending]

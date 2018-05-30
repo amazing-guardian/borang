@@ -1,0 +1,35 @@
+Yang Belum
+
+	berita slide
+	apk: histats eksternal
+	logo client ditambah di 'buku borang'
+
+Yang Sudah
+
+	dosen
+		pak ali: industri aja (kayak pak rusi) sama --> bu dian sama bu netti (sudah)
+		bu rizki: pendidikan dan perkembangan (sudah) --> bu miranti (new) juga (sudah)
+		bu lista tukar sama mas yadi (sudah)
+		bu peppi (sudah), bu rani roro (new) (sudah, gambar belum) --> klinis (all), bu yashinta (new) (sudah, gambar belum)
+
+	dir dosen di home: sap silabus pindah ke akademik. data rh jadi curriculum vitae
+
+	histats
+	link fisip
+	springer
+
+	jadwal seminar
+
+	silabus 2016
+
+	edit pranala luar
+
+	pob
+		fakultas
+		prodi
+		lab
+	pustaka
+	penelitian dosen
+	pranala luar, sampingnya e journal
+
+bulan: http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2016/07/Picture3-300x144.png

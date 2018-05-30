@@ -1,0 +1,220 @@
+[tabby title="Kurikulum 2014"]
+
+Semester 1
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-aktualisasi-diri.pdf">Aktualisasi Diri</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/B.INGGRIS.pdf">Bahasa Inggris</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/silabus-filsafat-umum.pdf">Filsafat Umum</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-ISBD.pdf">Ilmu Sosial Budaya Dasar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/AGAMA-HINDU.pdf">Pendidikan Agama Hindu</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/AGAMA-ISLAM.pdf">Pendidikan Agama Islam</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/AGAMA-KRISTEN.pdf">Pendidikan Agama Kristen</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/silabus-pend.-kewarganegaraan.pdf">Pendidikan Kewarganegaraan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/PSIKOLOGI-UMUM-12.pdf">Psikologi Umum 1 dan 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/silabus-statistik-1diferensial.pdf">Statistik Differensial</a></li>
+</ul>
+Semester 2
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Bahasa-Indonesia.pdf">Bahasa Indonesia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-kealaman-Dasar.pdf">Ilmu Kealaman Dasar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-anti-korupsi.pdf">Pendidikan Anti Korupsi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Pend-Pancasila.pdf">Pendidikan Pancasila</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Silabus-Kepribadian-I.pdf">Psikologi Kepribadian I</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/psikologi-Perkembangan-Anak.pdf">Psikologi Perkembangan Anak</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/silabus-psikologi-sosial-1-rini-fitriani-psi.pdf">Psikologi Sosial</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-STATISTIK-2016.pdf">Statistik Inferensial</a></li>
+</ul>
+Semester 3
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-BIOPSIKOLOGI.pdf">Biopsikologi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PENGANTAR-PSIKODIAGNOSTIK.pdf">Pengantar Psikodiagnostik</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PIO.pdf">Psikologi Industri dan Organisasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Silabus-Kepribadian-II.pdf">Psikologi Kepribadian 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PENDIDIKAN.pdf">Psikologi Pendidikan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Psi.-Perkembangan-Remaja.pdf">Psikologi Perkembangan Remaja</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOMETRI.pdf">Psikometri</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-TIK.pdf">Teknologi Informasi dan Komunikasi</a></li>
+</ul>
+Semester 4
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS.pdf">Metodologi Penelitian Kualitatif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Metodologi-Penelitian.pdf">Metodologi Penelitian Kuantitatif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-MODIFIKASI-PERILAKU.pdf">Modifikasi Perilaku</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-observasiwawancaraNEW-checked.pdf">Observasi dan Wawancara</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSP.pdf">Penyusunan Skala Psikologi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Abnormal-semester-4.pdf">Psikologi Abnormal</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-psikologi-klinis.pdf">Psikologi Klinis</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Psi-Kognitif.pdf">Psikologi Kognitif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOLOGI-KONSELING.pdf">Psikologi Konseling</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Silabus-DEWASA-LANSIA.pdf">Psikologi Perkembangan Dewasa dan Lansia</a></li>
+</ul>
+Semester 5
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-DASAR-INTERVENSI-NON-KLINIS.pdf">Dasar-dasar Intervensi Nonklinis</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-KESEHATAN-MENTAL.pdf">Kesehatan Mental</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-DAN-SILABUS-KONTES.pdf">Konstruksi Alat Tes</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-KODE-ETIK.pdf">Kode Etik</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-DAN-SILABUS-EKSPERIMEN.pdf">Psikologi Eksperimen</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOLOGI-POSITIF.pdf">Psikologi Positif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOTERAPI.pdf">Psikoterapi</a></li>
+</ul>
+Semester 6 Industri dan Organisasi
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Hubungan-Industrial.pdf">Hubungan Industrial</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/KEWIRAUSAHAAN.pdf">Kewirausahaan dan Inovasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/MSDM.pdf">Manajemen Sumber Daya Manusia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Silabus-Reksel.pdf">Sistem Rekruitmen dan Seleksi</a></li>
+</ul>
+Semester 6 Klinis
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-DETEKSI-DINI.pdf">Deteksi Dini dalam Perkembangan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Silabus-Intervensi-Dalam-Perkembangan.pdf">Intervensi dalam Perkembangan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-KEDALAMAN-PSIKOPATOLOGI.pdf">Pendalaman Psikopatologi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Silabus-ABK.pdf">Psikologi Anak Berkebutuhan Khusus</a></li>
+</ul>
+Semester 6 Pendidikan
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Pendidikan-Anank-Usia-Dini.pdf">Pendidikan Anak Usia Dini</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOLOGI-ANAK-BERBAKAT.pdf">Psikologi Anak Berbakat</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Psi-Belajar.pdf">Psikologi Belajar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOLOGI-SEKOLAH.pdf">Psikologi Sekolah</a></li>
+</ul>
+Semester 6 Sekolah
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Patologi-Reahabilitasi-Sosial-new.pdf">Patologi dan Rehabilitasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-psi-Bencana.pdf">Psikologi Bencana</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-psi-lintas-budaya.pdf">Psikologi Lintas Budaya</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-TJSOSPERUSAHAAN.pdf">Tanggung Jawab Sosial Perusahaan</a></li>
+</ul>
+Pilihan
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-analisis-jabatan.pdf">Analisis Jabatan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-ERGONOMIKA.pdf">Ergonomika</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Inventory.pdf">Inventory</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/PSIKOLOGI-KESULITAN-BELAJAR-SILABUS.pdf">Kesulitan Belajar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-KONSELING-KELUARGA-smt-pilihan.pdf">Konseling Keluarga</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSIKOLOGI-BERMAIN-smt-pilihan.pdf">Psikologi Bermain</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-konseling-karir.pdf">Psikologi Karir</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-psikologi-kom.pdf">Psikologi Komunikasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-PSI.-KONSUMEN.pdf">Psikologi Konsumen</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-Psi-Lingkungan.pdf">Psikologi Lingkungan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SILABUS-tbm-smt-7.pdf">Tes Minat dan Bakat</a></li>
+</ul>
+[tabby title="Kurikulum 2016"]
+
+Semester 1
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/BI.pdf">Bahasa Indonesia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Filsafat-Umum.pdf">Filsafat Umum</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-AGAMA-HINDU.pdf">Pendidikan Agama Hindu</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-AGAMA-ISLAM.pdf">Pendidikan Agama Islam</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-AGAMA-KRISTEN.pdf">Pendidikan Agama Kristen</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-AKTUALISASI-DIRI.pdf">Aktualisasi Diri</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-BAHASA-INGGRIS.pdf">Bahasa Inggris</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-ISBD.pdf">Ilmu Sosial Budaya Dasar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Pendidikan-Anti-Korupsi-2016.pdf">Pendidikan Anti Korupsi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PKN.pdf">Pendidikan Kewarganegaraan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI-UMUM-1-DAN-2-kurikulum-2014-by-RINI-FITRIANI.pdf">Psikologi Umum 1 dan 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-STATISTIK-DESKRIPTIF.pdf">Statistik Deskriptif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/TIK.pdf">Teknologi Informasi dan Komunikasi</a></li>
+</ul>
+Semester 2
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Biopsikologi-new.pdf">Biopsikologi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Ilmu-Kealaman-Dasar-new.pdf">Ilmu Kealaman Dasar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Kepribadian-1-new.pdf">Psikologi Kepribadian 1</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PANCASILA-new.pdf">Pendidikan Pancasila</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PIO-1_DIANDNR-new.pdf">Psikologi Industri dan Organisasi 1</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI-KOMUNIKASI-new.pdf">Psikologi Komunikasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI-UMUM-1-DAN-2-kurikulum-2014-by-RINI-FITRIANI-1.pdf">Psikologi Umum 1 dan 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSIKOLOGI-PENDIDIKAN-new.pdf">Psikologi Pendidikan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-psikologi-sosial-1-rini-fitriani-psi-new.pdf">Psikologi Sosial 1</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Psikolologi-Perkembangan-Anak-new.pdf">Psikologi Perkembangan Anak</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-STATISTIK-INFERENSIAL-new.pdf">Statistik Inferensial</a></li>
+</ul>
+Semester 3
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Administrasi-Test.pdf">Administrasi Test</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Psikometri.pdf">Psikometri</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-abnormal.pdf">Psikologi Abnormal</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Kepribadian-2.pdf">Psikologi Kepribadian 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PIO-2_DIANDNR.pdf">Psikologi Industri dan Organisasi 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI-BELAJAR-NEW.pdf">Psikologi Belajar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Psi.-Perkembangan-Remaja.pdf">Psikologi Perkembangan Remaja</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Psikologi-Klinis.pdf">Psikologi Klinis</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-psikologi-sosial-2-rini-fitriani-psi.pdf">Psikologi Sosial 2</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PERILAKU-KERJA.pdf">Perilaku Kerja</a></li>
+</ul>
+Semester 4
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Kesehatan-Mental-new.pdf">Kesehatan Mental</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-KUALITATIF-new.pdf">Metodologi Penelitian Kualitatif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-KUANTITATIF-new.pdf">Metodologi Penelitian Kuantitatif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-modif-new.pdf">Modifikasi Perilaku</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-OBSERVASI.pdf">Observasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PER.DEWASA-LANSIA-new.pdf">Perkembangan Dewasa dan Lansia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI.-KARIR-NEW.pdf">Psikologi Karir</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSIKOLOGI-KONSELING-new.pdf">Psikologi Konseling</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-WAWANCARA.pdf">Wawancara</a></li>
+</ul>
+Semester 5
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-intervensi-dalam-perkembangan.pdf">Intervensi dalam Perkembangan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Inventory.pdf">Inventory</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Kewirausahaan-dan-Inovasi.pdf">Kewirausahaan dan Inovasi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-KONSTRUKSI-ALAT-UKUR.pdf">Konstruksi Alat Ukur</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-EKSPERIMEN.pdf">Psikologi Eksperimen</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI-KELUARGA.pdf">Psikologi Keluarga</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Psikologi-Kognitif.pdf">Psikologi Kognitif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSIKOTERAPI.pdf">Psikoterapi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-TES-INTELEGENSI-ANAK-DAN-DEWASA.pdf">Tes Inteligensi Anak dan Dewasa</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-MINAT-BAKAT.pdf">Tes Minat dan Bakat</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-TES-PROYEKTIF.pdf">Tes Proyektif</a></li>
+</ul>
+Semester 6
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-intervensi-komunitas-rini-fitriani-psi.pdf">Intervensi Komunitas</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-KODE-ETIK.pdf">Kode Etik</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Seminar-Bidang-.pdf">Seminar Bidang</a></li>
+</ul>
+Semester 6 Klinis
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-INTERVENSI-TRAUMA-KRISIS.pdf">Intervensi Trauma Krisis</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSI-POSITIF-kurikulum-2014-by-RINI-FITRIANI.pdf">Psikologi Positif</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Psikologi-ABK.pdf">Psikologi Anak Berkebutuhan Khusus</a></li>
+</ul>
+Semester 6 Pendidikan
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-KESULITAN-BELAJAR.pdf">Kesulitan Belajar</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Psikologi-Bermain.pdf">Psikologi Bermain</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSIKOLOGI-SEKOLAH.pdf">Psikologi Sekolah</a></li>
+</ul>
+Semester 6 Industri dan Organisasi
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/HUBUNGAN-INDUSTRIAL.pdf">Hubungan Industrial</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/Kewirausahaan.pdf">Kewirausahaan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-MSDM.pdf">Manajemen Sumber Daya Manusia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-REKSEL.pdf">Sistem Rekruitmen dan Seleksi</a></li>
+</ul>
+Pilihan
+<ul>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/sap-asesmen-kompetensi.pdf">Asesmen Kompetensi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/DESAIN-PELATIHAN-ORANG-DEWASA.pdf">Desain Pelatihan Orang Dewasa</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-D3.pdf">Deteksi Dini Perkembangan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-INTERVENSI-PSI.PENDIDIKAN-new.pdf">Intervensi Psikologi dalam Pendidikan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Manajemen-Stress.pdf">Manajemen Stres</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-BEI.pdf">Metode Behavioral Event Interview</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Optimalisasi-Perkembangan-Manusia.pdf">Optimalisasi Perkembangan Manusia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-patologi-rehabilitasi-sosial-rini-fitriani-psi.pdf">Patologi Rehabilitasi Sosial</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PENDAMPINGAN-SKIZOFRENIA.pdf">Pendampingan Skizofrenia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PENDIDIKAN-ANAK-USIA-DINI.pdf">Pendidikan Anak Usia Dini</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PENDIDIKAN-INKLUSI.pdf">Pendidikan Inklusi</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PERENCANAAN-ORGANISASISDM.pdf">Perencanaan Organisasi dan Sumber Daya Manusia</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-PSIKOLOGI-ANAK-BERBAKAT.pdf">Psikologi Anak Berbakat</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-psikologi-bencana-rini-fitriani-psi.pdf">Psikologi Bencana</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-KEPEMIMPINAN.pdf">Psikologi Kepemimpinan dan Pengambilan Keputusan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/PSIKOLOGI-KONSUMEN.pdf">Psikologi Konsumen</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-LINGKUNGAN-BARU.pdf">Psikologi Lingkungan</a></li>
+ 	<li><a href="http://psikologi.fisip-unmul.ac.id/main/wp-content/uploads/2018/02/SAP-Sistem-tunjangan-dan-Gaji.pdf">Sistem Tunjangan dan Gaji</a></li>
+</ul>
+[tabbyending]

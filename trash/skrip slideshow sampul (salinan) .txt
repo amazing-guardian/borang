@@ -1,0 +1,60 @@
+<script type="text/javascript">
+	gambar_sampul = [
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/14856033_1155250947877660_490420366497681365_o.jpg?oh=e9e4608af620b64638d1937a12e6b9d4&oe=5B07FC6C',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/14856093_1152879571448131_7449586053110320592_o.jpg?oh=33a69ada65a0f6335e4f7c3626e5bac0&oe=5B0082EC',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/14902865_1152953498107405_6713561293812273247_o.jpg?oh=d677447292353fbcf260c2eff39dc06f&oe=5B1531AE',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13737603_1067426629993426_5468803965210894988_o.jpg?oh=95affb753fea1bd47fd9061884762ba1&oe=5B0FD2D1',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13528075_1053730971362992_6973705326046633152_o.jpg?oh=2fa458546a0355f1fc6c5fe246411b74&oe=5B4AF33B',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13498152_1050908398311916_5021640270399854306_o.jpg?oh=beb56695d443e353bfdcdd6db4bf1947&oe=5B0FF066',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13502931_1050908381645251_3383644520884019125_o.jpg?oh=c1c5f748f1219f8187af43b201855619&oe=5B073B7C',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13558863_1050908254978597_7556037550343082602_o.jpg?oh=0e36e05e290d9032835508506580b0bc&oe=5B0C48B3',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13528506_1050908588311897_1261654550585957705_o.jpg?oh=6e6cf964229d77bc7109280b7eee3a88&oe=5B0581A0',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13483262_1048353635234059_3504920571975416892_o.jpg?oh=7a249e302b41008005e579c524589f0b&oe=5B1179B0',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/13495638_1048353815234041_1192900395813485990_o.jpg?oh=3498da97a5ae6c4480fcea993fc5aa12&oe=5B18B5DE',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t31.0-8/14856133_1152965531439535_7569127056713005999_o.jpg?oh=56893dec16156b694093f8a3b509ed2b&oe=5B4CDD94',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/14344787_1113931302009625_6792711751157083940_n.jpg?oh=3b04436d881168c2ff1d31d7f2b19193&oe=5B4D2FD1',
+		'https://scontent-sit4-1.xx.fbcdn.net/v/t1.0-9/13925186_1083484568387632_4523996984271889236_n.jpg?oh=060fce98a49921dd90100caa0f79808c&oe=5B4CB0CB',
+		'https://s13.postimg.org/t0zdcdfdz/P_20180209_213530_v_HDR_On.jpg',
+		'https://s13.postimg.org/3uyf5jtjb/P_20180209_220844_v_HDR_On_1.jpg'
+	];
+</script>
+<script type="text/javascript" src="http://muhammadzaini.com/bin-bin/jquery/jquery.min.js"></script>
+<script type="text/javascript">
+
+	function shuffle(array) {
+	  var currentIndex = array.length, temporaryValue, randomIndex;
+
+	  // While there remain elements to shuffle...
+	  while (0 !== currentIndex) {
+
+	    // Pick a remaining element...
+	    randomIndex = Math.floor(Math.random() * currentIndex);
+	    currentIndex -= 1;
+
+	    // And swap it with the current element.
+	    temporaryValue = array[currentIndex];
+	    array[currentIndex] = array[randomIndex];
+	    array[randomIndex] = temporaryValue;
+	  }
+
+	  return array;
+	}
+	gambar_sampul = shuffle(gambar_sampul);
+
+	jQuery(function($){
+		angka = 0;
+		ubah_gambar = function(){
+			$('.layer1').css({
+				'background-image': 'url(\''+gambar_sampul[angka]+'\')'
+			});
+			angka++;
+			angka = angka % gambar_sampul.length;
+			$('img.sampul').attr('src', gambar_sampul[angka]).on('load', function(){
+				$('.layer1').css({
+					'background-image': 'url(\''+gambar_sampul[angka]+'\')'
+				});
+			});
+		}
+		setInterval(ubah_gambar, 6000);
+	});
+</script>

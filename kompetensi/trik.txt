@@ -1,0 +1,11 @@
+Uppercase setiap awal baris
+
+(^|\.\s|…\s)([a-z])
+\1\u\2
+
+Merge cell
+
+Ctrl 1
+A
+Alt M
+enter
